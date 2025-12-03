@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Interlude \"Worship\"",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-03T07:29:54.696326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Interlude \"Worship\"",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/01_Interlude__Worship_YOASOBI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Interlude “Worship”",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_Interlude_“Worship”_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Interlude ″Worship″",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_Interlude_′′Worship′′_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Interlude \"Worship\"",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Interlude__Worship_YOASOBI.txt"
+    }
+  ]
+}
